@@ -45,7 +45,7 @@ function Calculator() {
             {btn}
           </button>
         ))}
-        <button onClick={() => handleClick("=")}>=</button>
+    
       </div>
       
     </div>
